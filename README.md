@@ -36,8 +36,6 @@ Para instalar e rodar o projeto localmente, siga os passos abaixo:
 
 ## Uso
 
-Explique como usar seu projeto aqui. Por exemplo:
-
 1. Abra o aplicativo.
 2. Utilize a interface para cadastrar, consultar, atualizar e excluir pacientes.
 
